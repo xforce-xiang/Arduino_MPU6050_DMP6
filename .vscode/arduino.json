@@ -1,0 +1,6 @@
+{
+    "port": "COM4",
+    "board": "arduino:avr:uno",
+    "programmer": "AVRISP mkII",
+    "sketch": "MPU6050_DMP6.ino"
+}
